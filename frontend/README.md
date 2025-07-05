@@ -1,10 +1,12 @@
 🛍️ Smart Eco-Friendly Product Recommender
 🏆 Built for Walmart Sparkathon – June 2025
-![Screenshot (67)](https://github.com/user-attachments/assets/4f16e5de-fd14-4326-a959-2bd5ed5f8b81)
+![Screenshot (67)](https://github.com/user-attachments/assets/ac1a53cd-b975-4d56-8be3-de3dcd5524c4)
+
 live project link : http://localhost:8080/
 
 A real-time React-based web app that recommends greener, more sustainable product alternatives while you shop — reducing cart emissions by up to 40%.
-![Screenshot (68)](https://github.com/user-attachments/assets/059892a1-c20c-4ae5-a967-0b902bd33655)
+![Screenshot (68)](https://github.com/user-attachments/assets/5c6f685b-766d-4ab8-93c4-0d2dddd27bb9)
+
 
 🚀 Features
 ♻️ Eco-Score Tags: Highlights each product's sustainability score
@@ -20,8 +22,10 @@ A real-time React-based web app that recommends greener, more sustainable produc
 🏆 Leaderboard: Monthly leaderboard showing the top eco-friendly shoppers
 
 🔄 Live Updates with Convex’s real-time backend
-![Screenshot (70)](https://github.com/user-attachments/assets/2ff9c449-77fb-4a3f-8a61-5378ddd944ec)
-![Screenshot (69)](https://github.com/user-attachments/assets/46783094-58e6-49e5-b27a-c599048531b6)
+![Screenshot (70)](https://github.com/user-attachments/assets/52913d7e-c128-443b-af11-02ad391175e8)
+![Screenshot (69)](https://github.com/user-attachments/assets/b028b43d-889e-4e3c-a1d1-0ff6acce6507)
+
+
 
 🛠 Tech Stack
 Frontend: React.js, Tailwind CSS, JavaScript
@@ -32,4 +36,5 @@ UX: React Hot Toast (notifications)
 
 👥 Users
 Engaged 50+ test users, tracked usage patterns, and collected insights for future improvements in sustainable shopping habits.
-![Screenshot (71)](https://github.com/user-attachments/assets/4f1c5bf1-bf79-47b6-9022-589410fa3010)
+![Screenshot (70)](https://github.com/user-attachments/assets/cb9d18af-2919-406e-b590-394104a1063d)
+
