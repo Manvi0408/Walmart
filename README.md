@@ -88,7 +88,7 @@ VITE_API_URL=http://localhost:5000/api
    cd frontend
    npm run dev
    ```
-   Frontend will run on `http://localhost:5173`
+   Frontend will run on `http://localhost:8080`
 
 ## Project Structure
 
